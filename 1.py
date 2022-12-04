@@ -7,3 +7,6 @@ input("")
 
 def test():
     print('ok')
+
+def test2():
+    print("ok2")
