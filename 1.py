@@ -4,3 +4,6 @@ input("")
 input("")
 input("")
 input("")
+
+def test():
+    print('ok')
