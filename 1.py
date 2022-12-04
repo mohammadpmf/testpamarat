@@ -1,1 +1,6 @@
 print(4)
+input("")
+input("")
+input("")
+input("")
+input("")
